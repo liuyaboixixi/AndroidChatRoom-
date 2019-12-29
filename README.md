@@ -1,10 +1,6 @@
 [客户端GitHub地址](https://github.com/PdKingLiu/AndroidChatRoomClient)
 [服务器GitHub地址](https://github.com/PdKingLiu/AndroidChatRoomServer)
 [Android多人聊天室—服务器](https://blog.csdn.net/CodeFarmer__/article/details/81747541)
-### 先上图
-![这里写图片描述](https://img-blog.csdn.net/20180816195733221?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0NvZGVGYXJtZXJfXw==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
-![这里写图片描述](https://img-blog.csdn.net/20180816195740738?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0NvZGVGYXJtZXJfXw==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
-![这里写图片描述](https://img-blog.csdn.net/20180816195748295?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0NvZGVGYXJtZXJfXw==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
 
 ### 主活动接收用户信息并登录
 
