@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">多人聊天室</string>
+    <string name="send">发送</string>
+    <string-array name="welcome_tips">
+        <item>主人，奴婢在此等候多时了</item>
+        <item>主人，近来一切可好</item>
+        <item>亲爱的，我想死你了</item>
+        <item>欢迎归来，我亲爱的主人</item>
+        <item>我是小灵机器人，很高兴为您服务</item>
+    </string-array>
+</resources>
